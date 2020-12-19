@@ -5,7 +5,7 @@
     "abstract": "all the iva mods",
     "version": "2020.12.19.03.46.06",
     "ksp_version_min": "1.8",
-    "ksp_version_max": "1.11",
+    "ksp_version_max": "1.7",
     "license": [
         "unknown"
     ],
@@ -80,16 +80,17 @@
             "name": "DE-IVAExtension"
         },
         {
-            "name": "MK12PodIVAReplacementbyASET"
-        },
-        {
             "name": "HullcamVDSContinued"
         },
         {
             "name": "ShipEffectsContinued"
         }
     ],
-    "recommends": [],
+    "recommends": [
+        {
+            "name": "MK12PodIVAReplacementbyASET"
+        }
+    ],
     "suggests": [],
     "kind": "metapackage"
 }
