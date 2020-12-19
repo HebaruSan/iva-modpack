@@ -1,0 +1,95 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "iva",
+    "name": "iva",
+    "abstract": "all the iva mods",
+    "version": "2020.12.19.03.46.06",
+    "ksp_version_min": "1.8",
+    "ksp_version_max": "1.8.1",
+    "license": [
+        "unknown"
+    ],
+    "depends": [
+        {
+            "name": "RasterPropMonitor"
+        },
+        {
+            "name": "JSIAdvancedTransparentPods"
+        },
+        {
+            "name": "Astrogator"
+        },
+        {
+            "name": "DockingPortAlignmentIndicator"
+        },
+        {
+            "name": "NavUtilitiesContinued"
+        },
+        {
+            "name": "SCANsat"
+        },
+        {
+            "name": "VesselView"
+        },
+        {
+            "name": "ProbeControlRoomRecontrolled"
+        },
+        {
+            "name": "Chatterer"
+        },
+        {
+            "name": "MechJeb2"
+        },
+        {
+            "name": "RealChute"
+        },
+        {
+            "name": "ASETProps"
+        },
+        {
+            "name": "ASETAvionics"
+        },
+        {
+            "name": "VesselView-UI-RasterPropMonitor"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RasterPropMonitor-Core"
+        },
+        {
+            "name": "JSIPartUtilities"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "ZeroMiniAVC"
+        },
+        {
+            "name": "ASETAgency"
+        },
+        {
+            "name": "ChattererExtended"
+        },
+        {
+            "name": "DE-IVAExtension"
+        },
+        {
+            "name": "MK12PodIVAReplacementbyASET"
+        },
+        {
+            "name": "HullcamVDSContinued"
+        },
+        {
+            "name": "ShipEffectsContinued"
+        }
+    ],
+    "recommends": [],
+    "suggests": [],
+    "kind": "metapackage"
+}
